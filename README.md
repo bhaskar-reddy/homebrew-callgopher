@@ -1,2 +1,3 @@
-# homebrew-callsimplego
-Homebrew package to test a go service
+# homebrew-callgopher
+
+Simple Ruby Formula to call a Go executable using Homebrew.
